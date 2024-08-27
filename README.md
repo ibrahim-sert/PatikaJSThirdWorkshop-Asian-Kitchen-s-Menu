@@ -60,10 +60,15 @@ Menüdeki öğeleri güncellemek veya yenilerini eklemek için menu.js dosyasın
 Her menü öğesi aşağıdaki özelliklere sahiptir:
 
 `id`: Öğenin benzersiz kimliği
+
 `title`: Yemeğin adı
+
 `category`: Yemeğin ait olduğu kategori (örneğin, "Korea", "Japan")
+
 `price`: Yemeğin fiyatı
+
 `img`: Yemeğin resminin URL'si
+
 `desc`: Yemeğin kısa açıklaması
 
 ### Stil Düzenleme
